@@ -129,6 +129,7 @@ UPDATE_VERSION() {
 #UPDATE_VERSION "sing-box"
 UPDATE_VERSION softethervpn5
 # UPDATE_VERSION zerotier
+UPDATE_VERSION daed
 
 #引入私有扩展脚本
 if [ -f "$GITHUB_WORKSPACE/Scripts/PRIVATE.sh" ]; then
